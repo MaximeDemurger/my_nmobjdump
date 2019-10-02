@@ -2,7 +2,7 @@
 
 {EPITECH.} second year project.
 
-C program having the same behavior as the command `nm` or `objdump -fs`.
+C program that has the same behavior as the command `nm` or `objdump -fs`.
 
 ## Requirements
 
